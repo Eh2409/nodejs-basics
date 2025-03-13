@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Eh2409/nodejs-basics/issues"
   },
-  "homepage": "https://github.com/Eh2409/nodejs-basics#readme"
+  "homepage": "https://github.com/Eh2409/nodejs-basics#readme",
+  "dependencies": {
+    "ms": "^2.1.3"
+  }
 }
