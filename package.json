@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-basics",
+  "version": "1.0.0",
+  "description": "node js basics",
+  "main": "about-time.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eh2409/nodejs-basics.git"
+  },
+  "author": "eliad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eh2409/nodejs-basics/issues"
+  },
+  "homepage": "https://github.com/Eh2409/nodejs-basics#readme"
+}
